@@ -35,17 +35,25 @@ Some algorithms used includes:
 ## Visualization of Algorithms
 Visualization of the detector generation was done first, each with 60 detectors being generated.
 
-Done initially with no detectors overlap(green circles)
+Done initially with no detectors overlap(green circles).
+
 ![3](https://i.imgur.com/lDbh510.png)
+
 Done with detectors overlap, which resulted a larger coverage in 2D space.
+
 ![4](https://i.imgur.com/r7qPYsL.png)
 
-Visualizations done in 3D space, to get a better feel of the space
-![5](https://i.imgur.com/3qj01MA.jpg)
+Visualizations done in 3D space, to get a better feel of the space.
+
+![5](https://media.giphy.com/media/Q5chI7vxkBfF9D8IHZ/giphy.gif)
 
 Algorithms such as the monte carlo integration is being applied to calculate the self-space to get a better picture of the volume of the self space in greater dimensions such as 5 or 6. One such implementation was to estimate the area of the circle.
+
 ![6](https://i.imgur.com/Jl94TWi.gif)
 
 ## Implementation
 
 Source is available in `python`, however the cleaned data is not available.
+
+## License
+MIT

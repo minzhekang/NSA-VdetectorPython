@@ -12,6 +12,8 @@ Next, in the training phase a detector set is generated. In general, NSA aims fo
 
 Adapted and re-coded from [Zhou Ji](http://zhouji.net.s3-website-us-east-1.amazonaws.com/vdetector.html) which has an implementation of the algorithm in Java. 
 
+More information about this algorithm can be found [here](https://www.semanticscholar.org/paper/V-detector%3A-An-efficient-negative-selection-with-Ji-Dasgupta/10f6e1740f05268fe3d0cb0aaa312b80dbdaadf8)
+
 ## Pre-processing
 
 SWaT test bed data is being used in this example. First step is to clean the data and remove any "noise" or data that are incorrect. One such example would be as observed.

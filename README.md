@@ -2,7 +2,7 @@
 
 Adapted by Kang Min Zhe, this was done during my research stint in iTrust SUTD.
 
-I would like to give thanks to Dr Robert Kooji for offering his guidance.
+I would like to give thanks to Dr Robert Kooij for offering his guidance.
 
 ## Introduction
 

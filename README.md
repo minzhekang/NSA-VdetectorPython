@@ -58,5 +58,7 @@ Algorithms such as the monte carlo integration is being applied to calculate the
 ## Implementation
 source code is available in `python`, however the cleaned data is not available. 
 
+One limitation of this algorithm is that for high-dimensional data it is generally not suitable to use, and instead Neural Network or Random Forest Classifier is preferred.
+
 ## License
 MIT

@@ -56,9 +56,14 @@ Algorithms such as the monte carlo integration is being applied to calculate the
 ![6](https://i.imgur.com/Jl94TWi.gif)
 
 ## Implementation
-source code is available in `python`, however the cleaned data is not available. 
+Source code is available in `python`, however the cleaned data is not available. 
 
 One limitation of this algorithm is that for high-dimensional data it is generally not suitable to use, and instead Neural Network or Random Forest Classifier is preferred.
+
+## Other Algorithms
+Source codes for other algorithms used and tested is available.
+*Random Forest Classification adapted with numpy
+*Multivariate Gaussian Distribution 
 
 ## License
 MIT

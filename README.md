@@ -62,8 +62,8 @@ One limitation of this algorithm is that for high-dimensional data it is general
 
 ## Other Algorithms
 Source codes for other algorithms used and tested is available.
-*Random Forest Classification adapted with numpy
-*Multivariate Gaussian Distribution 
+* Random Forest Classification adapted with numpy
+* Multivariate Gaussian Distribution 
 
 ## License
 MIT
